@@ -1,0 +1,2 @@
+Bemerkt, dass das Powermeter beim wechseln der Skalen entwerde 0,401mW oder 135uW anzeigt.
+Da wir immer in 0,400mW gemessen haben, jetzt weiter so.

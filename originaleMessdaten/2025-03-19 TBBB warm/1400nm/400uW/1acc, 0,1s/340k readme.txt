@@ -1,0 +1,1 @@
+340k - spot verloren. neu gesucht. an mehreren Stellen beobachtet wie laser Probe erwärmt -  wenn auf THG optimiert wurde signal mit der Zeit halbier und weniger.
